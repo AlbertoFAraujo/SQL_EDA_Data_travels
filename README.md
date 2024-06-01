@@ -13,7 +13,7 @@
 
 A Data Travels é uma empresa que vende pacotes de viagens e tem o objetivo de melhorar a compreensão de seus dados de vendas, identificar oportunidades de crescimento e otimizar suas estratégias de marketing.
 
-O objetivo desta análise exploratória é responder as perguntas de negócios para posteriomente servir como base para o painel de visualização (Dashboard).
+O objetivo desta análise exploratória é responder as perguntas de negócios para posteriormente servir como base para o painel de visualização (Dashboard).
 
 1. Total de Receita por ano
 2. Receita total por ano
